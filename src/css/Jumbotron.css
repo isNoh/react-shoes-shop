@@ -1,0 +1,17 @@
+.jumbo-box {
+  width: 100%;
+  height: 300px;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-image: url("../image/background.jpg");
+  color: white;
+  background-size: cover;
+}
+
+.jumbo-box h1 {
+  font-size: 32px;
+  font-weight: 600;
+}
